@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My first Web Page</title>
+    </head>
+    <body>
+        <!--headings -->
+        <h1>Welcome to my Web page</h1>
+        <!--Paragrapgh -->
+        <p>This is my first Web page.</p>
+        <p>Feel free to explore and learn from this great Web page</p>
+        <!-- un-ordered lists -->
+         <ul>
+            <li>RE</li>
+            <li>Maths</li>
+            <li>Biology</li>
+         </ul>
+         <!-- ordered lists -->
+          <ol type="1" start="20">
+            <li>Python</li>
+            <li>Database</li>
+            <li>Software Engineering</li>
+          </ol>
+          <!-- anchor -->
+           <a href="https://facebook.com">go to facebook</a>
+           <!-- semantic html -->
+            <!-- Header -->
+             <header>
+                <h1>Welcome to my Webpage</h1>
+                <!-- navigation bar -->
+                <nav>
+                    <a href="/">Home</a>
+                    <a href="#">Contacts</a>
+                    <a href="#">About</a>
+                </nav>
+             </header>
+             <!-- main content -->
+              <main>
+                <article>
+                    <p>This is my first Web page.</p>
+                    <p>Feel free to explore and learn from this great Web page</p>
+                </article>
+                <section>
+                    <h2> My hobbies</h2>
+                    <ul>
+                        <li>Soccer</li>
+                        <li>Games</li>
+                    </ul>
+                </section>
+                <aside>
+                    <h3>Quick links</h3>
+                    <a href="#">Additional resouces</a>
+                </aside>
+              </main>
+              <!-- footer -->
+               <footer>
+                <p>&copy; 2025. Terry.  All rights reserved</p>
+               </footer>
+    </body>
+</html>
